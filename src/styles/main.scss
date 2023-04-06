@@ -1,0 +1,17 @@
+.crypto-table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    box-shadow: 11px 13px 5px -6px rgba(0, 0, 0, 0.17);
+    -webkit-box-shadow: 11px 13px 5px -6px rgba(0, 0, 0, 0.17);
+    -moz-box-shadow: 11px 13px 5px -6px rgba(0, 0, 0, 0.17);
+    width: 100%;
+
+    tr {
+        height: 35px;
+        border-bottom: 1px solid #ccc;
+    }
+    th,
+    td {
+        padding: 5px;
+    }
+}
